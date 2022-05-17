@@ -26,6 +26,7 @@ int main(){
     key[0] = 0; 
     parent[0] = -1; 
     int ansWeight = 0;
+    
     for (int count = 0; count < N - 1; count++)
     { 
         
